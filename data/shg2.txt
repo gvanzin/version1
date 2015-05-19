@@ -1,0 +1,352 @@
+﻿"","cpid","institution.name","institutionid","variable","value"
+"57",1,"Sachiyarma khedut Mandal-Charopdi moti",157,"1",1
+"58",1,"Hajipir mahila Bachat mandal-Charopdi moti",158,"1",1
+"59",1,"Hajibava mahila Bachat mandal-Charopdi moti",159,"1",1
+"62",2,"Ganga-Kaweri  Samuh",101,"1",1
+"63",2,"Ridhdi-Sidhdi  Samuh",102,"1",1
+"64",2,"Kajol Pragati Samuh",103,"1",1
+"65",2,"Suraj Pragati Samuh",104,"1",1
+"133",3,"Jai ma Santoshi Self Help Group                     ",101,"1",1
+"134",3,"Jai Ma GAnga Self Help Group                        ",102,"1",1
+"135",3,"Jai Ma durga Self Help Group                          ",103,"1",1
+"136",3,"Annpurna Self Help Group                                ",104,"1",1
+"137",3,"Sarsawati Self Help Group                                ",105,"1",1
+"138",3," Veshanavi Self Help Group( Mid Day Meal)          ",106,"1",1
+"139",3,"Gayatri Self Help Group                                     ",107,"1",1
+"202",4,"Swarn ajyothi(SHG)-thima reddy",104,"1",1
+"203",4,"Padma jyothi(SHG)-thimareddy",105,"1",1
+"207",4,"Malle moggha(SHG)-thimareddy",109,"1",1
+"217",4,"geetanjali(SHG)-thima reddy",119,"1",1
+"231",4,"Boolaxmi(SHG)-thimareddy",133,"1",1
+"280",4,"sharada(SHG)-thimareddy",182,"1",1
+"317",4,"keerthana(SHG)-thima reddy",219,"1",1
+"318",4,"parvathi devi(SHG)-thima rddy",220,"1",1
+"319",4,"santhosi laxmi(SHG)-thima reddy",221,"1",1
+"320",4,"navodhya(SHG)-thima reddy",222,"1",1
+"321",4,"kamalam puvu(SHG)-thima reddy",223,"1",1
+"322",4,"raghavendar(SHG)-thima reddy",224,"1",1
+"323",4,"saraswathi(SHG)-thima reddy",225,"1",1
+"325",5,"jagannath r.s.c-2",101,"1",1
+"326",5,"bolobhodra r.s.c-2",102,"1",1
+"327",5,"subhodra r.s.c-2",103,"1",1
+"386",6,"Ambedkar SHg Cherai",101,"1",1
+"387",6,"Pratibha Shg Cherai",102,"1",1
+"388",6,"Durga Shg Cherai",103,"1",1
+"479",7,"Jaher Ayur Mohila sayambar Gosthi  Bansol",101,"1",1
+"480",7,"Jumit Allaha Mohila sayambar Gosthi  Bansol",102,"1",1
+"481",7,"Ata Baha Mohila sayambar Gosthi  Bansol",103,"1",1
+"644",1,"Bismillah mahila Bachat mandal-Mohadi",160,"2",1
+"645",1,"Gaupalak Pasupalak mandal -Mohadi",161,"2",1
+"724",3,"Guru Singa ji Self Help Group                            ",108,"2",1
+"725",3,"Jai Lakshami Self Help Group                            ",109,"2",1
+"785",4,"swarna jyothi(SHG)-bangla thanda",103,"2",1
+"788",4,"Padma jyothi(SHG)-banglathanda",106,"2",1
+"789",4,"malle moggha(SHG)-banglathanda",107,"2",1
+"795",4,"Jeevana jyothi(SHG)-banglathanda",113,"2",1
+"823",4,"Astha laxmi(SHG)-thimareddy",141,"2",1
+"850",4,"jhansi(SHG)-thimaredy",168,"2",1
+"912",5,"champabati bhrusungiguda",104,"2",1
+"973",6,"Bajrang Shg Bardiha",104,"2",1
+"1066",7,"Baro Gajra Mohila sayambar Gosthi  Barogajra",104,"2",1
+"5286",1,"Momay Sakhi mandal-kalatalav",130,"10",1
+"5287",1,"Radhe sakhi mandal-Kalatalav",131,"10",1
+"5288",1,"Ravechi Sakhi mandal-Kalatalav",132,"10",1
+"5491",4,"Alivelu manghamma(SHG)-gokapasalwad",137,"10",1
+"5494",4,"astalaxmi(SHG)-gokapaslawad",140,"10",1
+"5520",4,"Malle puvu(SHG)-lg thanda",166,"10",1
+"5524",4,"Maanikyeshwari(SHG)-gokapaslawad",170,"10",1
+"5540",4,"kaalika matha(SHG)-gokapasalawad",186,"10",1
+"5543",4,"kamalamma(SHG)-gokapasalawad",189,"10",1
+"5545",4,"kanaka durgha(SHG)-gokafaslawad",191,"10",1
+"5547",4,"sampengha(SHG)-gokafasalawad",193,"10",1
+"5548",4,"sri raama(SHG)-gokafasalawad",194,"10",1
+"5558",4,"tulasi(SHG)-neetur",204,"10",1
+"5600",5,"om shanti mata ramaguda",120,"10",1
+"5601",5,"maya ramaguda",121,"10",1
+"5728",6,"Adiwasi SHG (NRLM) Sadma",187,"10",1
+"5729",6,"Mahila Vikash SHG (NRLM)Sadma",188,"10",1
+"5730",6,"Jai Ma Ambey SHG (NRLM) Sadma",189,"10",1
+"5731",6,"JUhi  SHG (NRLM) Sadma",190,"10",1
+"5732",6,"Golu gulab SHG (NRLM) Sadma",191,"10",1
+"5733",6,"Harijan SHG (NRLM) Sadma",192,"10",1
+"5734",6,"Jay Bajarang Bali SHG (NRLM)Sadma",193,"10",1
+"5779",7," Banbedia Rilemala Mahila Sayambar Gosthi  Dulalpur ",145,"10",1
+"5780",7,"Maa Tara  Mahila Sayambar Gosthi   Dulalpur ",146,"10",1
+"5781",7," Maa Kali  Mahila Sayambar Gosthi   Dulalpur ",147,"10",1
+"5782",7,"Matangini Mahila Sayambar Gosthi   Dulalpur ",148,"10",1
+"5783",7,"Kalbhairabi Mahila Sayambar Gosthi   Dulalpur ",149,"10",1
+"5784",7," Maa Ambika Mahila Sayambar Gosthi   Dulalpur ",150,"10",1
+"5785",7,"Maa Laxmi Mahila Sayambar Goshi   Dulalpur ",151,"10",1
+"5844",1,"Mahila Bachat Group-Mokar shivandh",104,"11",1
+"5952",2,"Sahyogi Mandali  Samuh",151,"11",1
+"5953",2,"Sitawan Bachat Samuh",152,"11",1
+"5954",2,"Sitalamata Samuh",153,"11",1
+"5955",2," Babul Samuh",154,"11",1
+"5956",2,"Bhawna Bachat Samuh",155,"11",1
+"6053",4,"Dhalith Annapurna(SHG)-sulthanpur",115,"11",1
+"6061",4,"rajjeva(SHG)-saleempur",123,"11",1
+"6070",4,"boolaxmi(SHG)-saleempur",132,"11",1
+"6073",4,"alivelumangama(SHG)-saleempur",135,"11",1
+"6080",4,"aruna jyothi(SHG)-saleempur",142,"11",1
+"6097",4,"Chamanthi(SHG)-saleempur",159,"11",1
+"6112",4,"gopika(SHG)-saleem",174,"11",1
+"6113",4,"anjaneyulu(SHG)-anthwar",175,"11",1
+"6125",4,"kaalika maatha(SHG)-salleempur",187,"11",1
+"6186",5,"maa sarala naliguda",122,"11",1
+"6370",7," Elora Maa Tara Mohila Swayambar Gosthi  Elora",152,"11",1
+"6371",7," Elora Maa Durga  Mohila Swayambar Gosthi   Elora",153,"11",1
+"6372",7," Elora Maa Basanti  Mohila Swayambar Gosthi   Elora",154,"11",1
+"6373",7," Elora Maha Prabhu  Mohila Swayambar Gosthi   Elora",155,"11",1
+"6374",7," Elora Bholebaba  Mohila Swayambar Gosthi   Elora",156,"11",1
+"6375",7," Elora Maa Saraswati  Mohila Swayambar Gosthi   Elora",157,"11",1
+"6376",7," Elora Barobaba  Mohila Swayambar Gosthi   Elora",158,"11",1
+"6377",7," Polashboni maa Tara  Mohila Swayambar Gosthi   Elora",159,"11",1
+"6378",7,"Polashboni  Maa Binapani  Swambar Gosthi   Elora",160,"11",1
+"6379",7,"Polashboni Joyguru   Swambar Gosthi   Elora",161,"11",1
+"6380",7," DauliBhira Mohila  Swambar Gosthi   Elora",162,"11",1
+"6381",7," Fulgal Mohila  Swambar Gosthi   Elora",163,"11",1
+"6382",7," Chirhgal Mohila  Swambar Gosthi   Elora",164,"11",1
+"6383",7,"TirlaLahanti Dahargh Mohila  Swambar Gosthi   Elora",165,"11",1
+"6384",7,"Sayerdihi Maa Laxmi Mohila  Swambar Gosthi   Elora",166,"11",1
+"6385",7,"Sayerdihi Maa Saraswati Mohila  Swambar Gosthi   Elora",167,"11",1
+"6386",7,"Elora Rabindra Mohila  Swambar Gosthi   Elora",168,"11",1
+"6387",7,"Elora Tony Mohila  Swambar Gosthi   Elora",169,"11",1
+"6426",1,"SaktiMahila Svasahay Juth-Bhadra vandh",102,"12",1
+"6427",1,"Bhenrejo Bherpo Svasahay Juth-Bhadra vandh",103,"12",1
+"6460",1,"SahiyerejoSath Sakhi mandal-Bhadra vandh",136,"12",1
+"6461",1,"Saradhin pir Sakhimandal-Bhadra vandh",137,"12",1
+"6541",2,"Ma Laxmi  Samuh",156,"12",1
+"6542",2,"Gangadevi Samuh",157,"12",1
+"6543",2,"Ma Sarswati  Samuh",158,"12",1
+"6544",2,"MA Narmada  Samuh",159,"12",1
+"6606",3,"Karisana Self Help Group",150,"12",1
+"6607",3,"Om Santi Self Help Group",151,"12",1
+"6608",3,"Jai Bajarang Self Help Group",152,"12",1
+"6653",4,"boolaxmi(SHG)-anthwar",131,"12",1
+"6665",4,"arunajyothi(SHG)-anthwar",143,"12",1
+"6680",4,"chamanthi(SHG)-anthwar",158,"12",1
+"6688",4,"Malle puvu(SHG)-lg thanda",166,"12",1
+"6694",4,"Dhanalaxmi(SHG)-anthwar",172,"12",1
+"6695",4,"gopika(SHG)-anthwar",173,"12",1
+"6724",4,"sarojini(SHG)-anthwar",202,"12",1
+"6771",5,"maa gramdevi naliguda colony",123,"12",1
+"6850",6,"Devi Ajiwika Shg (NRLM) Khatin",141,"12",1
+"6851",6,"Durga Ajiwika Shg(NRLM) Khatin",142,"12",1
+"6852",6,"Lakshami Ajiwika Shg (NRLM) Khatin",143,"12",1
+"6853",6,"Arti Ajiwika Shg  (NRLM) Khatin",144,"12",1
+"6854",6,"Shiv guru Ajiwika Shg (NRLM) Khatin",145,"12",1
+"6855",6,"Radhika Ajiwika Shg  (NRLM) Khatin",146,"12",1
+"6856",6,"Jyoti Ajiwika Shg (NRLM) Khatin",147,"12",1
+"6857",6,"Sawan Ajiwika Shg khatiin",148,"12",1
+"6858",6,"Kamal Ajiwika Shg (NRLM) Khatin",149,"12",1
+"6859",6,"Puja Ajiwika Shg (NRLM) Khatin",150,"12",1
+"6860",6,"Kalyani Ajiwika Shg (NRLM) Khatin",151,"12",1
+"6861",6,"Chameli Ajiwika Shg  (NRLM) Khatin",152,"12",1
+"6972",7,"Gopalpur Maa Sarada  Mohila Swabor Gosthi   Gopalpur",170,"12",1
+"6973",7,"Gopalpur Maa Tara  Mohila Swambor Gosthi    Gopalpur",171,"12",1
+"6974",7,"Gopalpur Maa Chandi Mohila Swambor Gosthi     Gopalpur",172,"12",1
+"7014",1,"Nurani Farmer Group-Meman vandh",106,"13",1
+"7162",3,"Satmev jayate Self Help Group",122,"13",1
+"7163",3," Maa Kheda devi Self Help Group",123,"13",1
+"7164",3," Jai Mata Di Self Help Group",124,"13",1
+"7165",3,"Jai Wandana Self Help Group",125,"13",1
+"7242",4,"alivelumangamma(SHG)-gundepally",136,"13",1
+"7250",4,"Aruna jyothi(SHG)-gundepally",144,"13",1
+"7266",4,"ganga(SHG)-gundepally",160,"13",1
+"7282",4,"anjaneyulu(SHG)-gundepally",176,"13",1
+"7356",5,"maa saraswati dudumaguda",124,"13",1
+"7400",6,"Sarswati Shg Bagaiya",107,"13",1
+"7401",6,"Lakshami Shg Bagaiya",108,"13",1
+"7559",7,"Maa Saroda Mahila Sawambar Gosthi    Guniada",173,"13",1
+"7560",7,"Joy Maa Kali Mahila Swambar Gosthi   Guniada",174,"13",1
+"7561",7,"Janani  Mahila Swambar Gosthi   Guniada",175,"13",1
+"7562",7,"Durgamata Mahila Swambar Gosthi   Guniada",176,"13",1
+"7563",7,"Jagadhatri Mahila Swambar Gosthi   Guniada",177,"13",1
+"7564",7," Maa Bhabani Mahila Swambar Gosthi   Guniada",178,"13",1
+"7565",7,"Singhabahini Mahila Swambar Gosthi   Guniada",179,"13",1
+"7566",7,"Maa Mansadevi Mahila Swambar Gosthi   Guniada",180,"13",1
+"7567",7,"Marang Gurung Mahila Swambar Gosthi   Guniada",181,"13",1
+"7568",7,"Jaher Ayur Mahila Swambar Gosthi   Guniada",182,"13",1
+"7713",2,"Narmadamata  Samuh",160,"14",1
+"7714",2,"Sagar Pragati Samuh",161,"14",1
+"7715",2,"Rachana Pragati Samuh",162,"14",1
+"7716",2,"Radha Pragati Samuh",163,"14",1
+"7717",2,"Laxmimata Samuh",164,"14",1
+"7777",3,"Jai ma Lakshmi  Self Help Group",153,"14",1
+"7778",3,"Prisarsani Self Help Group",154,"14",1
+"7779",3,"Maa Santoshi  Self Help Group",155,"14",1
+"7808",4,"Dhalitha swarna(SHG)-poolkampally",118,"14",1
+"7838",4,"Sri bhavani(SHG)-polkampally",148,"14",1
+"7851",4,"ganga(SHG)-polkampally",161,"14",1
+"7867",4,"vijayalaxmi(SHG)-polkampally",177,"14",1
+"7896",4,"arundhathi(SHG)-polkampally",206,"14",1
+"7898",4,"nandini(SHG)-polkampally",208,"14",1
+"7899",4,"teja(SHG)-polkampally",209,"14",1
+"7901",4,"simanju natha-earlapally",211,"14",1
+"7902",4,"sri manju natha(SHG)-polkampally",212,"14",1
+"7903",4,"shiva(shg)-polkampally",213,"14",1
+"7906",4,"bramarabha(SHG)-polkampally",216,"14",1
+"7908",4,"rajyalaxmi(SHG)-polkampally",218,"14",1
+"7941",5,"nandi mauli dongakund",125,"14",1
+"7942",5,"maa mauli dongakund",126,"14",1
+"7943",5,"maa dalkhai dongakund",127,"14",1
+"7998",6,"Mira Shg  Kaual",121,"14",1
+"7999",6,"Rani Shg Kaual",122,"14",1
+"8000",6,"Durga shg Kaual",123,"14",1
+"8001",6,"Lakshami Shg Kaual",124,"14",1
+"8002",6,"Radhika Shg Kaual",125,"14",1
+"8003",6,"Ambedkar Shg Kaual",126,"14",1
+"8004",6,"Maa Bhawani Shg Kaual",127,"14",1
+"8005",6,"Santoshi Shg Kaual",128,"14",1
+"8153",7,"Tirlou Utnao Mahila Samiti  Jhapandihi",183,"14",1
+"8154",7,"Jharna Adibasi Mohila Samiti    Jhapandihi",184,"14",1
+"8155",7,"Janam Parsi Mohila Unnayan Samiti   Jhapandihi",185,"14",1
+"8209",1,"Paras Sakhi mandal-Kandhay",133,"15",1
+"8210",1,"Neha Sakhi mandal-Kandhay",134,"15",1
+"8211",1,"Saheli Sakhi mandal-Kandhay",135,"15",1
+"8302",2,"Durga Pragati Samuh",165,"15",1
+"8303",2,"Ramu Pragati Samuh",166,"15",1
+"8334",3,"Jai Lakshami Self Help Group  (pipalpani)                          ",126,"15",1
+"8419",4,"sribhavani(SHG)-earlapally",145,"15",1
+"8436",4,"ganga(SHG)-earlapally",162,"15",1
+"8452",4,"vijayalaxmi(SHG)-earlapally",178,"15",1
+"8479",4,"arundhahi(SHG)-earlapally",205,"15",1
+"8481",4,"nandini(shg)-earlapally",207,"15",1
+"8484",4,"teja(SHG)-earlapally",210,"15",1
+"8488",4,"shiva(SHG)-earlapallly",214,"15",1
+"8489",4,"bramarabha(SHG)-earlaally",215,"15",1
+"8500",4,"aasha(SHG)-earlapally",226,"15",1
+"8528",5,"maa thakurani anlajodi",128,"15",1
+"8570",6,"Tulshi Ajiwika SHG  Sildag",109,"15",1
+"8571",6,"Suraj Ajiwika SHG  Sildag",110,"15",1
+"8572",6,"Khushabu Ajiwika shg  Sildag",111,"15",1
+"8573",6,"Lakshami Ajiwika SHG   Sildag",112,"15",1
+"8574",6,"Ganesh Ajiwika SHG   Sildag",113,"15",1
+"8575",6,"Puja Ajiwika SHG  Sildag",114,"15",1
+"8576",6,"Shiv shakti Ajiwika SHG  Sildag",115,"15",1
+"8577",6,"Sargam Ajiwika SHG  Sildag",116,"15",1
+"8578",6,"Chameli Ajiwika SHG  Sildag",117,"15",1
+"8579",6,"Sarswati Ajiwika SHG  Sildag",118,"15",1
+"8580",6,"Vishwakarma  Shg  Sildag",119,"15",1
+"8581",6,"Viveka Shg  Sildag",120,"15",1
+"8740",7,"Kaliahuta Hupubaha Mohila Swabor Gosthi  Kaliahuta",186,"15",1
+"8741",7,"Kaliahuta kunami Kiajharna Mohila Swambor Gosthi    Kaliahuta",187,"15",1
+"8799",1,"Hasal devi Sakhi mandal-Lala",139,"16",1
+"8800",1,"Hurama Sakhi Mandal-Lala",140,"16",1
+"8888",2,"Narmadamata  Samuh",167,"16",1
+"8889",2,"Sagar Pragati Samuh",168,"16",1
+"8890",2,"Rachana Pragati Samuh",169,"16",1
+"8891",2,"Radha Pragati Samuh",170,"16",1
+"8892",2,"Laxmimata Samuh",171,"16",1
+"8919",3,"Jai Maa Lakshmi Self Help Group",127,"16",1
+"8920",3,"Shree Gajjanand Self Help Group",128,"16",1
+"8921",3,"Jai ma Santoshi Self Help Group",129,"16",1
+"8922",3,"Jai Durga Self Help Group",130,"16",1
+"8923",3,"Sree Sai Ram Self Help Group",131,"16",1
+"8924",3,"Jai Bajrang Bali  Self Help Group",132,"16",1
+"8978",4,"Geethanjali(SHG)-kummarikunta",120,"16",1
+"9004",4,"sribhavani(SHG)-kummarikunta",146,"16",1
+"9113",5,"nandi maa pangiguda",129,"16",1
+"9199",6,"Vimala Shg Basdiha",154,"16",1
+"9326",7,"Kundurka Prativa Unnayan Mohila Samiti Kundurka",188,"16",1
+"9382",1,"Madina Sakhi mandal-Kaduli",138,"17",1
+"9532",3,"Tirvani Self  help group",156,"17",1
+"9533",3,"Gangotri Self Help Grout",157,"17",1
+"9534",3,"mhgouri Self  help group",158,"17",1
+"9535",3,"Ichadevi Self  help group",159,"17",1
+"9536",3,"Narmada Self  help group",160,"17",1
+"9537",3,"Vesnodevi Self  help group",161,"17",1
+"9538",3,"Radhika Self  help group",162,"17",1
+"9539",3,"Poju Self  help group",163,"17",1
+"9540",3,"Divya Self  help group",164,"17",1
+"9589",4,"sribhavani(SHG)-neetur",147,"17",1
+"9591",4,"veeranjaneya(SHG)-neetur",149,"17",1
+"9621",4,"vijaya laxmi(SHG)-neetur",179,"17",1
+"9634",4,"sampenga(SHG)-dasarygudem",192,"17",1
+"9641",4,"sribalaji(SHG)-neetur",199,"17",1
+"9646",4,"tulasi(SHG)-neetur",204,"17",1
+"9698",5,"maa khambeswari panighata",130,"17",1
+"9911",7,"Anandamoyi  Mohila Swabor Gosthi  Nowadihi",189,"17",1
+"9912",7,"Maa Durga  Mohila Swambor Gosthi    Nowadihi",190,"17",1
+"9913",7,"Nowadihi Mohamaya  Mohila Swambor Gosthi     Nowadihi",191,"17",1
+"9914",7,"Marang gurung Mohila Swambar Gosthi     Nowadihi",192,"17",1
+"9956",1,"Pragati Sakhi mandal-Sayara",128,"18",1
+"9957",1,"Bhagvati Sakhi Mandal-Sayara",129,"18",1
+"9984",1,"Asapura Sakhi mandal-Sayara",156,"18",1
+"10143",4,"dhalitha swarna(SHG)-dasarygudem",117,"18",1
+"10153",4,"dhanalaxmi(SHG)-dasarygudem",127,"18",1
+"10176",4,"veeranjaneya(SHG)-dasarygudem",150,"18",1
+"10178",4,"veeranjaneya(SHG)-lg thanda",152,"18",1
+"10190",4,"roja(SHG)-dasary gudem",164,"18",1
+"10206",4,"shantha laxmi(SHG)-dasarygudem",180,"18",1
+"10216",4,"kanakadurga(SHG)-dasarygudem",190,"18",1
+"10229",4,"tulasi(SHG)-dasarygudem",203,"18",1
+"10499",7,"Pathardihi Durgamata SHG Mahila  Gosthi  Pathardihi",193,"18",1
+"10500",7,"monalisha Swanirvar Gosthi)  Palliunnayan   Pathardihi",194,"18",1
+"10501",7,"Pathardihi Kalimata SHG Mahila  Gosthi   Pathardihi",195,"18",1
+"10502",7,"Pathardii Saraswatimata SHG Mahila  Gosthi   Pathardihi",196,"18",1
+"10503",7,"Pathardihi Maa Manasa SHG Mahila  Gosthi  Pathardihi",197,"18",1
+"10504",7,"Pathardihi Jalbuna SHG Mahila  Gosthi  Pathardihi",198,"18",1
+"10505",7,"Pathardihi Laxmimata SHG Mahila  Gosthi  Pathardihi",199,"18",1
+"10519",1,"Ashapura MahilaSvasahay Juth-Vanku",107,"19",1
+"10520",1,"MomaymaMahila Svasahayjuth-Vanku",108,"19",1
+"10522",1,"RamdevpirMahila Svasahayjuth-vanku",110,"19",1
+"10524",1,"JaymatajiMahila Svasahayjuth-Vanku",112,"19",1
+"10525",1,"SachiyarmaMahila Svasahayjuth-Vanku",113,"19",1
+"10526",1,"SitaramMahila Svasahayjuth-vanku",114,"19",1
+"10527",1,"Gaupalak Pasupalak mandal-Vanku",115,"19",1
+"10529",1,"AshapuraKhedut Mandal-Vanku",117,"19",1
+"10677",3,"Jai Singa Ji  Self Help Group",133,"19",1
+"10678",3,"Gayatri  Self Help Group",134,"19",1
+"10679",3,"Jai ma Pitambara  Self Help Group",135,"19",1
+"10680",3,"Savitri  Self Help Group",136,"19",1
+"10681",3,"Gita Self Help Group",137,"19",1
+"10761",4,"veeranjaneya(SHG)-sangaipally",151,"19",1
+"10776",4,"Malle puvu(SHG)-lg thanda",166,"19",1
+"10798",4,"kamalamma(SHG)-sangaipally",188,"19",1
+"10814",4,"tulasi(SHG)-neetur",204,"19",1
+"10867",5,"maa tarini khilaguda",131,"19",1
+"10868",5,"jay bhabani khilaguda",132,"19",1
+"10962",6,"Jai maa lakshami Shg(NRLM) Kachanpur",165,"19",1
+"10963",6,"Bhima Bai Shg(NRLM)Kachanpur",166,"19",1
+"10964",6,"Jhalkari Shg(Private) Kachanpur",167,"19",1
+"10965",6,"Parwati Shg(Private)Kachanpur",168,"19",1
+"10966",6,"Krishana Shg(NRLM)Kachanpur",169,"19",1
+"10967",6,"Durga Shg(NRLM)Kachanpur",170,"19",1
+"10968",6,"Kali Shg(NRLM)Kachanpur",171,"19",1
+"10969",6,"Sarshwati  Shg(NRLM) Kachanpur",172,"19",1
+"10970",6,"Sita  Shg(NRLM) Kachanpur",173,"19",1
+"10971",6,"Vishnu  Shg(NRLM)Kachanpur",174,"19",1
+"10972",6,"Chahat  Shg(NRLM)Kachanpur",175,"19",1
+"10973",6,"Anjali  Shg(NRLM)Kachanpur",176,"19",1
+"10974",6,"Lakshami  Shg(NRLM)Kachanpur",177,"19",1
+"10975",6,"Ganesh  Shg(NRLM)Kachanpur",178,"19",1
+"10976",6,"Gulab  Shg(NRLM)Kachanpur",179,"19",1
+"10977",6,"Jyoti  Shg(NRLM)Kachanpur",180,"19",1
+"10978",6,"Chandani  Shg(NRLM)Kachanpur",181,"19",1
+"10979",6,"Suraj  Shg(NRLM)Kachanpur",182,"19",1
+"10980",6,"Vikash  Shg(NRLM)Kachanpur",183,"19",1
+"10981",6,"Kali  Shg(NRLM)Kachanpur",184,"19",1
+"10982",6,"Chameli  Shg(NRLM)Kachanpur",185,"19",1
+"10983",6,"Vijeta  Shg(NRLM)Kachanpur",186,"19",1
+"11090",7,"Jaher Ayu Mohila Swayambar Gosthi Rangametia",200,"19",1
+"11091",7,"Sidhu Kanhu Mohila Swayambar Gosthi   Rangametia",201,"19",1
+"11105",1,"Momayma mahila Svasahayjuth-kukdau",109,"20",1
+"11107",1,"RamdevpirMahila Svasahayjuth-Kukdau",111,"20",1
+"11112",1,"Gaupalak Pasupalak mandal-Kukdau",116,"20",1
+"11114",1,"AshapuraKhedut Mandal-Kukdau",118,"20",1
+"11147",1,"Naimamamahila swasay juth-Kukadau",151,"20",1
+"11148",1,"Sachiyarma khedut Mandal-Kukadau",152,"20",1
+"11149",1,"Momayma khedut Mandal-Kukadau",153,"20",1
+"11293",3,"Jai Maa sarwati Self Help group ",165,"20",1
+"11294",3,"Jai Maa Durga Self Help group",166,"20",1
+"11346",4,"veeranjaneya(SHG)-lg thanda",152,"20",1
+"11375",4,"shantha laxmi(SHG)-lg thanda",181,"20",1
+"11378",4,"tuljabhavani(SHG)-lg thanda",184,"20",1
+"11453",5,"sanskar hatipadar",133,"20",1
+"11534",6,"Milan SHG Kundauli",153,"20",1
+"11676",7,"Saraswati Unnayan Mohila Samiti  Sitarampur",202,"20",1
+"11677",7,"Sitarampur Majhpara Mohila Unnayan Samiti  Sitarampur",203,"20",1
+"11678",7,"Shree Bishnu Mohila Unnayan Samiti  Sitarampur",204,"20",1
+"11679",7,"Swayangsiddha Mohila Unnayan Samiti  Sitarampur",205,"20",1
+"11680",7,"Maa Mansa Mohila Unnayan Samiti  Sitarampur",206,"20",1
